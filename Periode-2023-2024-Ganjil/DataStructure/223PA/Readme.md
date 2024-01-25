@@ -4,7 +4,7 @@
   <li>Dosen Pengampu: <a href="https://github.com/Muhammad-Ikhwan-Fathulloh">Muhammad Ikhwan Fathulloh</a></li>
 </ul>
 
-## Kelompok 1 (Judul Proyek)
+## Kelompok 1 (Sistem Kursus)
 
 <p>Lorem ipsum sir dolor amet.</p>
 
